@@ -1,0 +1,5 @@
+c:\users\ivo\documents\visual studio 2015\Projects\AutoBackup\AutoBackup\bin\Release\AutoBackup.exe.config
+c:\users\ivo\documents\visual studio 2015\Projects\AutoBackup\AutoBackup\bin\Release\AutoBackup.exe
+c:\users\ivo\documents\visual studio 2015\Projects\AutoBackup\AutoBackup\bin\Release\AutoBackup.pdb
+c:\users\ivo\documents\visual studio 2015\Projects\AutoBackup\AutoBackup\obj\Release\AutoBackup.exe
+c:\users\ivo\documents\visual studio 2015\Projects\AutoBackup\AutoBackup\obj\Release\AutoBackup.pdb

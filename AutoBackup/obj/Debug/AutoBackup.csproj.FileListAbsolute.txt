@@ -1,0 +1,6 @@
+c:\users\ivo\documents\visual studio 2015\Projects\AutoBackup\AutoBackup\bin\Debug\AutoBackup.exe.config
+c:\users\ivo\documents\visual studio 2015\Projects\AutoBackup\AutoBackup\bin\Debug\AutoBackup.exe
+c:\users\ivo\documents\visual studio 2015\Projects\AutoBackup\AutoBackup\bin\Debug\AutoBackup.pdb
+c:\users\ivo\documents\visual studio 2015\Projects\AutoBackup\AutoBackup\obj\Debug\AutoBackup.csprojResolveAssemblyReference.cache
+c:\users\ivo\documents\visual studio 2015\Projects\AutoBackup\AutoBackup\obj\Debug\AutoBackup.exe
+c:\users\ivo\documents\visual studio 2015\Projects\AutoBackup\AutoBackup\obj\Debug\AutoBackup.pdb
